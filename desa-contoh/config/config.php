@@ -27,5 +27,7 @@
 	Kode provinsi sesuai dengan yg di http://pusatkrisis.kemkes.go.id/daftar-kode-provinsi
 */
 	$config['covid_data'] = 1;
-	$config['provinsi_covid'] = 51; // kode provinsi. Comment baris ini untuk menampilkan data Indonesia
+	$config['provinsi_covid'] = 13; // kode provinsi. Comment baris ini untuk menampilkan data Indonesia
+	$config['code_kota'] = 578; // kode 578 untuk kabupaten solok selatan
+
 	
